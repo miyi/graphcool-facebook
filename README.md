@@ -18,10 +18,11 @@ Register a Facebook App with Authentication
 * make sure its a webapp
 * create a login product
 * add callback redirect
+* replace __APP_ID__ with facebook app id in login.html
 
 Retrieve a Facebook Token
 --------------
-* create a server with python
+* create server with python
 * command line: python -m SimpleHTTPServer
 * http://localhost:8000/login.html
 
