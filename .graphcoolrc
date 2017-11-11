@@ -1,0 +1,3 @@
+targets:
+  facebook-resolver: shared-us-west-2/cj9tsq73gj3ku0182h01pryk9
+  default: facebook-resolver
