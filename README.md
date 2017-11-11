@@ -29,9 +29,11 @@ Retrieve a Facebook Token
 
 Test Login in Graphcool Playground
 --------------
+```
 mutation {
 	authenticateUser(facebookToken: "token") {
 		id
 		token
 	}
 }
+```
